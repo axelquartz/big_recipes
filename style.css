@@ -1,3 +1,9 @@
-*{
-    background-color: rgb(189, 113, 0);
+img{
+    border-radius: 20px;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
 }
