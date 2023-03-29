@@ -42,3 +42,9 @@ p{
 }
 
 /*Recipes page specific rules*/
+main{
+    text-align: center;
+}
+main div img{
+    margin: 50px;
+}
