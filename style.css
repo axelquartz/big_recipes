@@ -8,8 +8,12 @@ nav{
     padding: 20px;
     margin: 0 0 auto 0;
 }
-ul{
+ul, ol{
     text-align: center;
+    border: 5px black solid;
+    padding: 10px;
+    display: block;
+
 }
 ul li{
     display: inline;
